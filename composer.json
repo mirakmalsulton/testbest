@@ -1,2 +1,25 @@
 {
+  "name": "mirakmalsulton/testbest",
+  "type": "library",
+  "description": "Test lib",
+  "keywords": [
+    "framework",
+    "http",
+    "rest",
+    "web service",
+    "curl",
+    "client",
+    "HTTP client",
+    "PSR-7",
+    "PSR-18"
+  ],
+  "homepage": "https://stackflow.cc",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "mirakmalsulton",
+      "homepage": "https://stackflow.cc",
+      "role": "Developer"
+    }
+  ]
 }
